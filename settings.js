@@ -2,9 +2,9 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 module.exports = {
-  SESSION_ID: '',
+  SESSION_ID: 'QUEENELISA;;;==QQWNlYwp1YHdlVXtmWvlncmJEbLhXdQR1SNdjew1mSsJjS2NkSOF0M2kDVjMETEFTVFFlUpwd=118972117552',
   ALIVE_REACT: '👋',
-  ALIVE_MESSAGE: `*Hello @name [ And @gname @members Number of Members ] I am Alive Now !*
+  ALIVE_MESSAGE: `*Hello @name [ And @gname @members Number of Members ] My name is ROBOTSAPP I am Alive Now !*
 
 ⏰ Now time is @time
 📅 Date : @date
@@ -19,23 +19,23 @@ module.exports = {
 
 Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
-  MONGODB_URL: '', 
+  MONGODB_URL: 'mongodb+srv://yiyiri3934:RoQ7jl8FHgApcCil@clustersss.hh1bp.mongodb.net/?retryWrites=true&w=majority&appName=Clustersss', 
   PREFIX: '.$&',
   LANGUAGE: 'EN',
   PORT: 3000,
-  BOT_NAME: '𝐐𝐔𝐄𝐄𝐍 𝐄𝐋𝐈𝐒𝐀',
-  OWNER_NAME: 'ᴍ ʀ  ɴ ɪ ᴍ ᴀ',
-  OWNER_NUMBER: '94715166712',
-  SUDO: '94715166712',
+  BOT_NAME: 'ROBOTSAPP',
+  OWNER_NAME: 'SHEDDYTZ',
+  OWNER_NUMBER: '255623778072',
+  SUDO: '255745778072',
   WORK_TYPE: 'public',
   WORK_MODE: 'group',
   TIME_ZONE: 'Asia/Colombo',
-  CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴍᴅ',
-  STICKER_AUTHOR: 'Qᴜᴇᴇɴ ᴇʟɪꜱᴀ',
-  STICKER_PACK: 'ᴍʀ ɴɪᴍᴀ ᴏꜰᴄ',
-  REMOVE_BG_APIKEY: '',
+  CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ROBOTSAPP',
+  STICKER_AUTHOR: 'ROBOTSAPP',
+  STICKER_PACK: 'SHEDDYTZ',
+  REMOVE_BG_APIKEY: 'Qhh2T4GftAXVQ9herygDJZ7M',
   MAXIMUM_FILESIZE: 90,
-  OWNER_R_EMOJI: '👽',
+  OWNER_R_EMOJI: '👑',
   ALIVE_AS_GIF: true,
   AUTO_VOICE: false,
   INBOX_BLOCK: false,
@@ -63,8 +63,8 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   MSG: {
     ONLY_GROUP_MSG: 'Bot only Can Use Groups!',
     ONLY_PM_MSG: 'Bot only Can Use Private Chats!',
-    BAD_DETECT_MSG: '@user Bad Words Are Disable by Owner!',
-    BANED_MSG: "@user You Can't use bot, You are baned by owner!",
+    BAD_DETECT_MSG: '@user Bad Words Are Disable by SHEDDYTZ!',
+    BANED_MSG: "@user You Can't use bot, You are baned by SHEDDYTZ!",
     GROUP_LEAVE: '👋 Bye @groupName I am Going.',
     INBOX_BLOCK:
       '❌ My owner has activated auto inbox blocking. So you will be auto blocked after 8 seconds'
