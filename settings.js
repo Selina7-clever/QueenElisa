@@ -19,7 +19,7 @@ module.exports = {
 
 Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
-  MONGODB_URL: 'mongodb+srv://<db_username>:GSfQsNTpibTPW9pk@clusterppp.owxxi.mongodb.net/?retryWrites=true&w=majority&appName=Clusterppp', 
+  MONGODB_URL: 'mongodb+srv://Qasnnsn:2lr8IjIoWpUNLijb@cluster373.owxxi.mongodb.net/?retryWrites=true&w=majority&appName=Cluster373', 
   PREFIX: '.$&',
   LANGUAGE: 'EN',
   PORT: 3000,
