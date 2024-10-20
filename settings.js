@@ -2,9 +2,9 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 module.exports = {
-  SESSION_ID: 'QUEENELISA;;;==QQWNlYwp1YHdlVXtmWvlncmJEbLhXdQR1SNdjew1mSsJjS2NkSOF0M2kDVjMETEFTVFFlUpwd=118972117552',
+  SESSION_ID: 'QUEENELISA;;;==wc2AXZnZEMLx0Q3JGdQlUYwIXRMFTaWxkZ4kTWuV1RiREay12Vwd3MJRVdjskYUJFVsFEcpwd=532136556552',
   ALIVE_REACT: '👋',
-  ALIVE_MESSAGE: `*Hello @name [ And @gname @members Number of Members ] My name is ROBOTSAPP I am Alive Now !*
+  ALIVE_MESSAGE: `*Hello @name [ And @gname @members Number of Members ] I am Alive Now !*
 
 ⏰ Now time is @time
 📅 Date : @date
@@ -19,18 +19,18 @@ module.exports = {
 
 Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
-  MONGODB_URL: 'mongodb+srv://yiyiri3934:RoQ7jl8FHgApcCil@clustersss.hh1bp.mongodb.net/?retryWrites=true&w=majority&appName=Clustersss', 
+  MONGODB_URL: 'mongodb+srv://<db_username>:GSfQsNTpibTPW9pk@clusterppp.owxxi.mongodb.net/?retryWrites=true&w=majority&appName=Clusterppp', 
   PREFIX: '.$&',
   LANGUAGE: 'EN',
   PORT: 3000,
   BOT_NAME: 'ROBOTSAPP',
   OWNER_NAME: 'SHEDDYTZ',
-  OWNER_NUMBER: '255623778072',
+  OWNER_NUMBER: '255623778072,255747331235',
   SUDO: '255745778072',
   WORK_TYPE: 'public',
   WORK_MODE: 'group',
   TIME_ZONE: 'Asia/Colombo',
-  CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ROBOTSAPP',
+  CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ 255623778072',
   STICKER_AUTHOR: 'ROBOTSAPP',
   STICKER_PACK: 'SHEDDYTZ',
   REMOVE_BG_APIKEY: 'Qhh2T4GftAXVQ9herygDJZ7M',
@@ -53,7 +53,7 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   BLOCK_CMD_MSG_SEND: false,
   INBOX_BLOCK_MSG_SEND: false,
   CMD_CORRECT: true,
-  ANTI_CHANNEL_FORWARD: false,
+  ANTI_CHANNEL_FORWARD: true,
   ANTI_BOT: false,
   BUTTON_MESSAGES: true,
   SONG_DOWNLOAD_TYPE: 'selectable', // audio , document
